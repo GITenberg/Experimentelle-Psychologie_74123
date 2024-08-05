@@ -1,0 +1,36 @@
+_repo: Experimentelle-Psychologie_74123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindworsky, Johannes
+    aliases:
+    - Lindworsky, J. (Johannes)
+    - Lindworsky, Johann
+    - Lindworsky, Joh. B. (Johannes B.)
+    - Lindworski, Ioannes
+    birthdate: 1875
+    deathdate: 1939
+    gutenberg_agent_id: '57354'
+    url: http://www.gutenberg.org/2009/agents/57354
+    wikipedia: https://de.wikipedia.org/wiki/Johannes_Lindworsky
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74123'
+language: de
+pgterms:marc905: 20200607071033lindworsky
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: $aMünchen :$bVerlag Josef Kösel & Friedrich Pustet K.-G., $c1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychophysiology'
+- !lcsh 'Psychology, Experimental'
+- !lcc 'BF'
+- GITenberg
+title: Experimentelle Psychologie
+url: http://www.gutenberg.org/ebooks/74123
