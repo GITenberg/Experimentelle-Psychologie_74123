@@ -1,5 +1,8 @@
 _repo: Experimentelle-Psychologie_74123
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74123-h/images/cover.jpg
 creator:
   author:
     agent_name: Lindworsky, Johannes
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57354
     wikipedia: https://de.wikipedia.org/wiki/Johannes_Lindworsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74123#Experimentelle-Psychologie
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
